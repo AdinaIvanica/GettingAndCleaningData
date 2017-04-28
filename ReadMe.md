@@ -1,5 +1,5 @@
 #Course Project
-##The Data Source
+The Data Source
 *Original Data Source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 *Original Description of the Data Set: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 ##Data Set Information
